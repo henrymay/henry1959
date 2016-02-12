@@ -1,2 +1,2 @@
 # henry1959
-Sandbox for playing with git and Android Studio.
+Henry May's sandbox for playing with git and Android Studio.
